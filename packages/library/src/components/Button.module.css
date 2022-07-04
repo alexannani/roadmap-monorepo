@@ -1,0 +1,13 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonStyle {
+    background-color: mediumpurple;
+    font-family: Courier New;
+    padding: 20px 30px;
+    border-color: pink;
+    border-radius: 7px;
+    box-shadow: 1px 2px 7px 0px;
+}

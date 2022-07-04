@@ -1,9 +1,11 @@
+import { Button } from '@monorepo/library';
 import './App.css';
-import Button from '@monorepo/library';
 
 function App() {
   return (
-    <Button />
+    <div className="App">
+      <Button text="yoooooooo" />
+    </div>
   );
 }
 
